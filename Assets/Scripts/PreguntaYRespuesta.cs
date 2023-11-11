@@ -4,6 +4,6 @@ public class PreguntaYRespuesta
 {
     public string Pregunta;
     public string[] Respuestas;
-    public string RespuestaCorrecta;
+    public string respuestaCorrecta;
 
 }
